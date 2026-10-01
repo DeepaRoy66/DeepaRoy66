@@ -28,11 +28,6 @@ Currently learning scalable architecture and better development workflows.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=DeepaRoy66&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepaRoy66&layout=compact&theme=tokyonight&hide_border=true)
-
 ## Featured Projects
 - **School Management SaaS**: multi-tenant school system built with Laravel
 - **News Portal**: Laravel portal with configurable category layouts and admin-managed ads
