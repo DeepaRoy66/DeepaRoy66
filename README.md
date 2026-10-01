@@ -1,12 +1,7 @@
 # Hi, I'm Puspa (Deepa) 👋
 
 ## About Me
-I'm a Full Stack Developer from Nepal, focused on building clean and user-friendly websites and apps. <br>
-I work on both frontend and backend, turning ideas into products that are fast and easy to use. <br>
-I enjoy building web platforms and mobile apps that solve real problems. <br>
-Currently learning more about scalable design and better development workflows. <br>
-I also take freelance projects. <br>
-I like keeping things simple and making sure they work well.
+I'm a Full Stack Developer from Nepal, focused on building clean and user-friendly websites and apps.I work on both frontend and backend, turning ideas into products that are fast and easy to use.I enjoy building web platforms and mobile apps that solve real problems. Currently learning more about scalable design and better development workflows.I also take freelance projects. I like keeping things simple and making sure they work well.
 ## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
