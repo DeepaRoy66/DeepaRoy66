@@ -29,13 +29,7 @@ I'm a Full Stack Developer from Nepal, focused on building clean and user-friend
 - **[Meropasal](https://meroopasal.com/)**: online store website
 - **[Aura Eyebrow Threading Austin](https://auraeyebrowthreadingaustin.com/)**: business website
 - **[ITM HUB](https://itmhub.com.np/)**: institute website
-- **[Siddhasthali](https://siddhasthali.edu.np/)**: school website## Featured Projects
-- **[Mobile Garage](https://www.mobilegarage.com.np/)**: website and the complete admin panel for the Mobile Garage app, which is live on the Play Store
-- **[Meropasal](https://meroopasal.com/)**: online store website
-- **[Aura Eyebrow Threading Austin](https://auraeyebrowthreadingaustin.com/)**: business website
-- **[ITM HUB](https://itmhub.com.np/)**: institute website
 - **[Siddhasthali](https://siddhasthali.edu.np/)**: school website
-
 ## Connect With Me
 - 🌐 Portfolio: [pusparay.com.np](https://pusparay.com.np)
 - 💼 Working at [I.T.M HUB](https://itmhub.com.np)
