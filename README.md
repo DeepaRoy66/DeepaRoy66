@@ -1,4 +1,4 @@
-# Hi, I'm Puspa 👋
+# Hi, I'm Puspa (Deepa) 👋
 
 ## About Me
 Full Stack Developer from Nepal, currently working at **I.T.M HUB PVT. LTD.**, Sindhuli.
