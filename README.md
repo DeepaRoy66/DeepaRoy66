@@ -1,11 +1,12 @@
 # Hi, I'm Puspa (Deepa) 👋
 
 ## About Me
-Full Stack Developer from Nepal, currently working at **I.T.M HUB PVT. LTD.**, Sindhuli.
-I build clean and practical web applications, mainly admin panels and backends with **Laravel**, and modern frontends with **React / Next.js**.
-I also take freelance web development projects and create training material on AI tools.
-Currently learning scalable architecture and better development workflows.
-
+I'm a Full Stack Developer from Nepal, focused on building clean and user-friendly websites and apps. <br>
+I work on both frontend and backend, turning ideas into products that are fast and easy to use. <br>
+I enjoy building web platforms and mobile apps that solve real problems. <br>
+Currently learning more about scalable design and better development workflows. <br>
+I also take freelance projects. <br>
+I like keeping things simple and making sure they work well.
 ## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
