@@ -29,6 +29,7 @@ I'm a Full Stack Developer from Nepal, focused on building clean and user-friend
 - **[Meropasal](https://meroopasal.com/)**: online store website
 - **[Aura Eyebrow Threading Austin](https://auraeyebrowthreadingaustin.com/)**: business website
 - **[ITM HUB](https://itmhub.com.np/)**: institute website
+- **[Osho Auto Parts](https://www.oshoautoparts.com/)**: auto parts website
 - **[Siddhasthali](https://siddhasthali.edu.np/)**: school website
 ## Connect With Me
 - 🌐 Portfolio: [pusparay.com.np](https://pusparay.com.np)
