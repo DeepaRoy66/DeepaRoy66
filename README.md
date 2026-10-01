@@ -25,9 +25,16 @@ I'm a Full Stack Developer from Nepal, focused on building clean and user-friend
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Featured Projects
-- **School Management SaaS**: multi-tenant school system built with Laravel
-- **News Portal**: Laravel portal with configurable category layouts and admin-managed ads
-- **Portfolio**: [pusparay.com.np](https://pusparay.com.np)
+- **[Mobile Garage](https://www.mobilegarage.com.np/)**: website and the complete admin panel for the Mobile Garage app, which is live on the Play Store
+- **[Meropasal](https://meroopasal.com/)**: online store website
+- **[Aura Eyebrow Threading Austin](https://auraeyebrowthreadingaustin.com/)**: business website
+- **[ITM HUB](https://itmhub.com.np/)**: institute website
+- **[Siddhasthali](https://siddhasthali.edu.np/)**: school website## Featured Projects
+- **[Mobile Garage](https://www.mobilegarage.com.np/)**: website and the complete admin panel for the Mobile Garage app, which is live on the Play Store
+- **[Meropasal](https://meroopasal.com/)**: online store website
+- **[Aura Eyebrow Threading Austin](https://auraeyebrowthreadingaustin.com/)**: business website
+- **[ITM HUB](https://itmhub.com.np/)**: institute website
+- **[Siddhasthali](https://siddhasthali.edu.np/)**: school website
 
 ## Connect With Me
 - 🌐 Portfolio: [pusparay.com.np](https://pusparay.com.np)
